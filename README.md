@@ -42,7 +42,7 @@
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <h3>Other</h3>
+  <h3>Cyber Security</h3>
 
   ![OSINT](https://img.shields.io/badge/OSINT-008080?style=for-the-badge&logo=osint&logoColor=white)
 </div>
