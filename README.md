@@ -44,7 +44,7 @@
 
   <h3>Cyber Security</h3>
 
-  ![OSINT](https://img.shields.io/badge/OSINT-008080?style=for-the-badge&logo=osint&logoColor=white)
+  [OSINT](https://img.shields.io/badge/OSINT-008080?style=for-the-badge&logo=osint&logoColor=white)
 </div>
 
 <div align="center">
