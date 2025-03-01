@@ -23,6 +23,7 @@
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Batch](https://img.shields.io/badge/Batch_Script-121011?style=for-the-badge&logo=wibndows-terminal&logoColor=white)
 
   <h3>Technology</h3>
 
