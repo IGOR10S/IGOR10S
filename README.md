@@ -1,3 +1,16 @@
+<h1 align="center">Welcome to my profile</h1>
+
+<p>
+  In this space you will find a collection of open source tools, applications and projects developed and shared to foster growth, learning and collaboration within the community.<br>
+  Many of these projects were created with educational and ethical purposes, to offer a starting point to those who want to delve deeper into software development, automation and IT security concepts.
+
+  > [!NOTE]
+  > I invite you to explore, study and contribute in compliance with the regulations and values of correctness that guide the sharing of free knowledge. The author declines all responsibility for improper or non-compliant use of the resources published here: conscious and responsible use is entrusted to you.
+
+  If you want to contribute, propose improvements or share new ideas, feel free to open a pull request or start a discussion in the repository.<br>
+  Collaboration is what makes free software a valuable resource for everyone.
+</p>
+
 <h1 align="center">Overview</h1>
 
 <div align="center">
