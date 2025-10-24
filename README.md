@@ -30,7 +30,7 @@
   ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Batch](https://img.shields.io/badge/Batch_Script-121011?style=for-the-badge&logo=wibndows-terminal&logoColor=white)
 
-  <h3>Server</h3>
+  <h3>Web Server</h3>
 
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
   ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
