@@ -1,17 +1,15 @@
-<h1 align="center">Welcome to my profile</h1>
+<h1 align="center">Welcome to my profile !</h1>
 
 <p>
-  In this space you will find a collection of open source tools, applications and projects developed and shared to foster growth, learning and collaboration within the community.<br>
-  Many of these projects were created with educational and ethical purposes, to offer a starting point to those who want to delve deeper into software development, automation and IT security concepts.
+  In this space you will find a collection of <b>open source</b> tools, applications and projects developed and shared to foster growth, learning and collaboration within the community. Many of these projects were created with <b>educational and ethical purposes</b>, to offer a starting point to those who want to delve deeper into software development, automation and IT security concepts.
 
-  > [!NOTE]
-  > I invite you to explore, study and contribute in compliance with the regulations and values of correctness that guide the sharing of free knowledge. The author declines all responsibility for improper or non-compliant use of the resources published here: conscious and responsible use is entrusted to you.
+  > [!IMPORTANT]
+  > I invite you to explore, study and contribute in compliance with the regulations and values of correctness that guide the sharing of free knowledge. <b>The author declines all responsibility for improper or non-compliant use of the resources published here: conscious and responsible use is entrusted to you</b>.
 
-  If you want to contribute, propose improvements or share new ideas, feel free to open a pull request or start a discussion in the repository.<br>
-  Collaboration is what makes free software a valuable resource for everyone.
+  If you want to contribute, propose improvements or share new ideas, feel free to open a <b>pull request</b> or start a <b>discussion</b> in the repository. Collaboration is what makes free software a valuable resource for <b>everyone</b>.
 </p>
 
-<h1 align="center">Overview</h1>
+<h2 align="center">Overview</h2>
 
 <div align="center">
 
@@ -32,9 +30,6 @@
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Batch](https://img.shields.io/badge/Batch_Script-121011?style=for-the-badge&logo=wibndows-terminal&logoColor=white)
 
@@ -61,6 +56,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IGOR10S&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IGOR10S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph" />
 </div>
