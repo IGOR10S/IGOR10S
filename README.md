@@ -47,10 +47,6 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-  <h3>Cyber Security</h3>
-
-  ![OSINT](https://img.shields.io/badge/OSINT-008080?style=for-the-badge&logo=osint&logoColor=white)
 </div>
 
 <div align="center">
